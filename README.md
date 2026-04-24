@@ -4,7 +4,7 @@
 
 <br/>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&pause=1000&color=6C8EBF&center=true&vCenter=true&width=620&lines=AI+Agent+Systems+%7C+Distributed+Systems;CS+%2B+Data+Science+%40+Purdue+%E2%80%9927;Building+durable%2C+production-grade+AI;Open+Source+%7C+%F0%9F%8F%86+TartanHacks+2026+Champion" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&pause=1000&color=6C8EBF&center=true&vCenter=true&width=620&lines=AI+Agent+Systems+%7C+Distributed+Systems;CS+%2B+Data+Science+%40+Purdue+%E2%80%9927;Building+durable%2C+production-grade+AI;Open+Source+%7C+%F0%9F%8F%86+TartanHacks+2026+Winner" alt="Typing SVG" /></a>
 
 <br/><br/>
 
