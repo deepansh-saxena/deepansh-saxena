@@ -23,7 +23,7 @@
 class Deepansh:
     def __init__(self):
         self.name        = "Deepansh Saxena"
-        self.university  = "Purdue University · CS (Honors) + Data Science · '27"
+        self.university  = "Purdue University · CS + Data Science · '27"
         self.current     = "Incoming AI Engineer Intern @ T-Mobile (IntentCX)"
         self.prev        = "AI Operations Lead @ Jeeves (YC S20)"
         self.club        = "prev. Technical Lead, Claude Builder Club @ Purdue (85+ members)"
