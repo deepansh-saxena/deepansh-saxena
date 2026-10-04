@@ -1,8 +1,8 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,100:1a1a2e&height=140&section=header&text=Deepansh%20Saxena&fontSize=42&fontColor=ffffff&fontAlignY=55&animation=fadeIn"/>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:eaf2fb,100:dbe7f7&height=140&section=header&text=Deepansh%20Saxena&fontSize=42&fontColor=24292f&fontAlignY=55&animation=fadeIn" width="100%" alt="Deepansh Saxena"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d%2C100:1a1a2e&height=140&section=header&text=Deepansh%20Saxena&fontSize=42&fontColor=ffffff&fontAlignY=55&animation=fadeIn"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:eaf2fb%2C100:dbe7f7&height=140&section=header&text=Deepansh%20Saxena&fontSize=42&fontColor=24292f&fontAlignY=55&animation=fadeIn" width="100%" alt="Deepansh Saxena"/>
 </picture>
 
 <br/>
@@ -150,8 +150,8 @@ class Deepansh:
 <br/>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:0d0d0d&height=80&section=footer"/>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:dbe7f7,100:eaf2fb&height=80&section=footer" width="100%" alt=""/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e%2C100:0d0d0d&height=80&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:dbe7f7%2C100:eaf2fb&height=80&section=footer" width="100%" alt=""/>
 </picture>
 
 </div>
