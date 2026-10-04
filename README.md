@@ -1,11 +1,18 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,100:1a1a2e&height=140&section=header&text=Deepansh%20Saxena&fontSize=42&fontColor=ffffff&fontAlignY=55&animation=fadeIn#gh-dark-mode-only" width="100%" alt="Deepansh Saxena"/>
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:eaf2fb,100:dbe7f7&height=140&section=header&text=Deepansh%20Saxena&fontSize=42&fontColor=24292f&fontAlignY=55&animation=fadeIn#gh-light-mode-only" width="100%" alt="Deepansh Saxena"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,100:1a1a2e&height=140&section=header&text=Deepansh%20Saxena&fontSize=42&fontColor=ffffff&fontAlignY=55&animation=fadeIn"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:eaf2fb,100:dbe7f7&height=140&section=header&text=Deepansh%20Saxena&fontSize=42&fontColor=24292f&fontAlignY=55&animation=fadeIn" width="100%" alt="Deepansh Saxena"/>
+</picture>
 
 <br/>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&pause=1000&color=6C8EBF&center=true&vCenter=true&width=620&lines=AI+Agent+Systems+%7C+Distributed+Systems;CS+%2B+Data+Science+%40+Purdue+%E2%80%9927;Building+durable%2C+production-grade+AI;Open+Source+%7C+%F0%9F%8F%86+TartanHacks+2026+Winner#gh-dark-mode-only" alt="Typing SVG" /><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&pause=1000&color=1F5F99&center=true&vCenter=true&width=620&lines=AI+Agent+Systems+%7C+Distributed+Systems;CS+%2B+Data+Science+%40+Purdue+%E2%80%9927;Building+durable%2C+production-grade+AI;Open+Source+%7C+%F0%9F%8F%86+TartanHacks+2026+Winner#gh-light-mode-only" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&pause=1000&color=6C8EBF&center=true&vCenter=true&width=620&lines=AI+Agent+Systems+%7C+Distributed+Systems;CS+%2B+Data+Science+%40+Purdue+%E2%80%9927;Building+durable%2C+production-grade+AI;Open+Source+%7C+%F0%9F%8F%86+TartanHacks+2026+Winner"/>
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&pause=1000&color=1F5F99&center=true&vCenter=true&width=620&lines=AI+Agent+Systems+%7C+Distributed+Systems;CS+%2B+Data+Science+%40+Purdue+%E2%80%9927;Building+durable%2C+production-grade+AI;Open+Source+%7C+%F0%9F%8F%86+TartanHacks+2026+Winner" alt="Typing SVG" />
+  </picture>
+</a>
 
 <br/><br/>
 
@@ -108,10 +115,14 @@ class Deepansh:
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=deepansh-saxena&show_icons=true&theme=dark&bg_color=0d0d0d&border_color=303d50&icon_color=6C8EBF&title_color=ffffff&text_color=b6c2d1&count_private=true#gh-dark-mode-only" alt="Deepansh's GitHub stats" />
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=deepansh-saxena&show_icons=true&theme=default&bg_color=f6f8fa&border_color=d0d7de&icon_color=1f5f99&title_color=24292f&text_color=57606a&count_private=true#gh-light-mode-only" alt="Deepansh's GitHub stats" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deepansh-saxena&layout=compact&theme=dark&bg_color=0d0d0d&border_color=303d50&title_color=ffffff&text_color=b6c2d1#gh-dark-mode-only" alt="Deepansh's most used languages" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deepansh-saxena&layout=compact&theme=default&bg_color=f6f8fa&border_color=d0d7de&title_color=24292f&text_color=57606a#gh-light-mode-only" alt="Deepansh's most used languages" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=deepansh-saxena&show_icons=true&theme=dark&bg_color=0d0d0d&border_color=303d50&icon_color=6C8EBF&title_color=ffffff&text_color=b6c2d1&count_private=true"/>
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=deepansh-saxena&show_icons=true&theme=default&bg_color=f6f8fa&border_color=d0d7de&icon_color=1f5f99&title_color=24292f&text_color=57606a&count_private=true" alt="Deepansh's GitHub stats" />
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=deepansh-saxena&layout=compact&theme=dark&bg_color=0d0d0d&border_color=303d50&title_color=ffffff&text_color=b6c2d1"/>
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deepansh-saxena&layout=compact&theme=default&bg_color=f6f8fa&border_color=d0d7de&title_color=24292f&text_color=57606a" alt="Deepansh's most used languages" />
+</picture>
 
 </div>
 
@@ -119,8 +130,10 @@ class Deepansh:
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com/?user=deepansh-saxena&theme=dark&background=0d0d0d&border=303d50&stroke=303d50&ring=6C8EBF&fire=6C8EBF&currStreakLabel=6C8EBF&sideLabels=b6c2d1&dates=9baec8&currStreakNum=ffffff&sideNums=ffffff#gh-dark-mode-only" alt="Deepansh's GitHub contribution streak" />
-<img src="https://streak-stats.demolab.com/?user=deepansh-saxena&theme=default&background=f6f8fa&border=d0d7de&stroke=d0d7de&ring=1f5f99&fire=1f5f99&currStreakLabel=1f5f99&sideLabels=57606a&dates=57606a&currStreakNum=24292f&sideNums=24292f#gh-light-mode-only" alt="Deepansh's GitHub contribution streak" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=deepansh-saxena&theme=dark&background=0d0d0d&border=303d50&stroke=303d50&ring=6C8EBF&fire=6C8EBF&currStreakLabel=6C8EBF&sideLabels=b6c2d1&dates=9baec8&currStreakNum=ffffff&sideNums=ffffff"/>
+  <img src="https://streak-stats.demolab.com/?user=deepansh-saxena&theme=default&background=f6f8fa&border=d0d7de&stroke=d0d7de&ring=1f5f99&fire=1f5f99&currStreakLabel=1f5f99&sideLabels=57606a&dates=57606a&currStreakNum=24292f&sideNums=24292f" alt="Deepansh's GitHub contribution streak" />
+</picture>
 
 </div>
 
@@ -136,7 +149,9 @@ class Deepansh:
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:0d0d0d&height=80&section=footer#gh-dark-mode-only" width="100%" alt=""/>
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:dbe7f7,100:eaf2fb&height=80&section=footer#gh-light-mode-only" width="100%" alt=""/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:0d0d0d&height=80&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:dbe7f7,100:eaf2fb&height=80&section=footer" width="100%" alt=""/>
+</picture>
 
 </div>
