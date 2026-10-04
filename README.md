@@ -19,7 +19,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-1f5f99?style=flat-square&logo=linkedin&logoColor=ffffff)](https://linkedin.com/in/deepansh-saxena)
 [![PyPI - DuraLang](https://img.shields.io/pypi/v/duralang?label=DuraLang%20on%20PyPI&style=flat-square&color=1f5f99&labelColor=1f5f99&logoColor=ffffff)](https://pypi.org/project/duralang/)
 [![GitHub followers](https://img.shields.io/github/followers/deepansh-saxena?style=flat-square&color=1f5f99&labelColor=1f5f99&logo=github&logoColor=ffffff)](https://github.com/deepansh-saxena)
-![Profile Views](https://komarev.com/ghpvc/?username=deepansh-saxena&style=flat-square&color=1f5f99&label=VIEWS)
 
 </div>
 
